@@ -8,10 +8,11 @@ This **Clinic Management System** helps clinics manage patient appointments, med
 
 This project was built together by a team of four contributors:
 
-* [Nusrat Jaben Aurnima](https://github.com/NushratJabenAurnima)
-* [Md Shahrukh Hossain Shihab](https://github.com/shihab372)
-* [Zihad Khan](https://github.com/collaborator3)
-* [Shairin Akter Hashi](https://github.com/Shairin207)
+[Nusrat Jaben Aurnima](https://github.com/NushratJabenAurnima)
+- [Zihad Khan](https://github.com/Zihad107)
+- [Shairin Akter Hashi](https://github.com/Shairin207)
+- [MD Shahrukh Hossain Shihab](https://github.com/shihab372)
+
 
 Thanks to everyone for their hard work and dedication.
 
